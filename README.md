@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2652-sum-multiples](https://github.com/divyakrishnan55k/leetcode/tree/master/2652-sum-multiples) |
 | [3227-vowels-game-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/divyakrishnan55k/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/divyakrishnan55k/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
