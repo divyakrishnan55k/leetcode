@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 | [3227-vowels-game-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
