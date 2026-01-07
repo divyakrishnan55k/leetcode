@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divyakrishnan55k/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/divyakrishnan55k/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyakrishnan55k/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/divyakrishnan55k/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyakrishnan55k/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -76,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
