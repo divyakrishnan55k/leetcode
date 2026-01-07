@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/divyakrishnan55k/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/3227-vowels-game-in-a-string) |
