@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/divyakrishnan55k/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/divyakrishnan55k/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/divyakrishnan55k/leetcode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyakrishnan55k/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/divyakrishnan55k/leetcode/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
