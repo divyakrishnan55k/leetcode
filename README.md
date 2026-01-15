@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/divyakrishnan55k/leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/divyakrishnan55k/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/divyakrishnan55k/leetcode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/divyakrishnan55k/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyakrishnan55k/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyakrishnan55k/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/divyakrishnan55k/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/divyakrishnan55k/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/divyakrishnan55k/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/divyakrishnan55k/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3227-vowels-game-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
