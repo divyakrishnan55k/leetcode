@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyakrishnan55k/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
