@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
+| [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyakrishnan55k/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
+| [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/divyakrishnan55k/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/divyakrishnan55k/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [3227-vowels-game-in-a-string](https://github.com/divyakrishnan55k/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
+| [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyakrishnan55k/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
