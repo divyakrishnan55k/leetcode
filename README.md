@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyakrishnan55k/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
