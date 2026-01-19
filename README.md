@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyakrishnan55k/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/divyakrishnan55k/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/divyakrishnan55k/leetcode/tree/master/0400-nth-digit) |
