@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/divyakrishnan55k/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/divyakrishnan55k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/divyakrishnan55k/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/divyakrishnan55k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/divyakrishnan55k/leetcode/tree/master/0268-missing-number) |
 | [0819-most-common-word](https://github.com/divyakrishnan55k/leetcode/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/divyakrishnan55k/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
