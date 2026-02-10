@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/divyakrishnan55k/leetcode/tree/master/0819-most-common-word) |
 | [0833-find-and-replace-in-string](https://github.com/divyakrishnan55k/leetcode/tree/master/0833-find-and-replace-in-string) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/divyakrishnan55k/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyakrishnan55k/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/divyakrishnan55k/leetcode/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/divyakrishnan55k/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/divyakrishnan55k/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Dynamic Programming
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/divyakrishnan55k/leetcode/tree/master/0155-min-stack) |
+| [0946-validate-stack-sequences](https://github.com/divyakrishnan55k/leetcode/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
